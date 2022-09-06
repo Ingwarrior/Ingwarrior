@@ -1,2 +1,4 @@
+сайт портфолио для девушки создан по технологии gulp
+hhtml5-css3-scss
 
-hello my name is Igor I am 27 years old I am engaged in frontend developer)
+https://ingwarrior.github.io/Ingwarrior/
